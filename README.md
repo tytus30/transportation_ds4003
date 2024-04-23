@@ -1,6 +1,5 @@
 # transportation_ds4003
-DS 4003 term project
-Tytus Suchotinunt
+DS 4003 term project-Tytus Suchotinunt
 
 Find my dashboard here: https://transportation-ds4003.onrender.com
 
